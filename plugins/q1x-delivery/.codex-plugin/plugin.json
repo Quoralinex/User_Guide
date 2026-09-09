@@ -1,0 +1,23 @@
+{
+  "name": "q1x-delivery",
+  "version": "0.2.0",
+  "description": "Q1X repository integration for Quoralinex/User_Guide.",
+  "author": {
+    "name": "Quoralinex",
+    "url": "https://github.com/Quoralinex"
+  },
+  "license": "AGPL-3.0",
+  "apps": "./.app.json",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Q1X: User_Guide",
+    "shortDescription": "delivery repository integration",
+    "developerName": "Quoralinex",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ]
+  }
+}
