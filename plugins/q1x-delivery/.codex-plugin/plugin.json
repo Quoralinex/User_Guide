@@ -7,7 +7,6 @@
     "url": "https://github.com/Quoralinex"
   },
   "license": "AGPL-3.0",
-  "apps": "./.app.json",
   "skills": "./skills/",
   "interface": {
     "displayName": "Q1X: User_Guide",
